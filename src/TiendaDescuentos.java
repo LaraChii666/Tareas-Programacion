@@ -42,8 +42,5 @@ public class TiendaDescuentos {
         System.out.println("Monto descontado: $" + montoDescuento);
         System.out.println("Total a pagar: $" + totalPagar);
 
-
-
-
     }
 }
